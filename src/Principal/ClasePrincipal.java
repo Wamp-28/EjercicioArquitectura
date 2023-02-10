@@ -8,6 +8,8 @@ public class ClasePrincipal {
 
         System.out.println("MI PRIMER RAMA");
 
+        System.out.println("Estamos aprendiendo GIT");
+
     }
 
 
