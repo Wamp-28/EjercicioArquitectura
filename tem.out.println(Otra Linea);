@@ -1,0 +1,50 @@
+[33mcommit 2d1a91c9d0b025a171dcf816877a773957a69c3c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: William Alexander Matallana <wmatallana28@gmail.com>
+Date:   Fri Feb 10 10:23:39 2023 -0500
+
+    Otra Linea
+
+[33mcommit 3ab8ce19b3eb8cffe1042b2ae1f1e84c7c76504b[m
+Author: William Alexander Matallana <wmatallana28@gmail.com>
+Date:   Fri Feb 10 10:20:26 2023 -0500
+
+    Nueva linea
+
+[33mcommit d858a856acb564b8e80642d13fe6167d828b862f[m
+Merge: 605cc9b f714930
+Author: Wamp-28 <123969389+Wamp-28@users.noreply.github.com>
+Date:   Thu Feb 9 20:56:48 2023 -0500
+
+    Merge pull request #1 from Wamp-28/Mi_rama
+    
+    Mi rama
+
+[33mcommit f714930c2cf5aaa447a866939757d4032c7cf063[m
+Author: William Alexander Matallana <wmatallana28@gmail.com>
+Date:   Thu Feb 9 20:39:06 2023 -0500
+
+    Se agrega una nueva linea
+
+[33mcommit 34862f5421a820979b183ce61d1e46b62f5738ee[m
+Author: William Alexander Matallana <wmatallana28@gmail.com>
+Date:   Thu Feb 9 20:33:23 2023 -0500
+
+    Creacion de rama
+
+[33mcommit 605cc9be53ad1a0db7d048e35cc69c49bffc5ec5[m
+Author: William Alexander Matallana <wmatallana28@gmail.com>
+Date:   Thu Feb 9 20:18:03 2023 -0500
+
+    Tercer Commit
+
+[33mcommit d93aa4ba8b25823928e5e3b8f8f5bf5427c9533c[m
+Author: William Alexander Matallana <wmatallana28@gmail.com>
+Date:   Thu Feb 9 20:16:40 2023 -0500
+
+    Segundo Commit
+
+[33mcommit 3b7d90be48e0403fa5e416502ab1d2cdc60229fa[m
+Author: William Alexander Matallana <wmatallana28@gmail.com>
+Date:   Thu Feb 9 20:12:38 2023 -0500
+
+    Initial commit
